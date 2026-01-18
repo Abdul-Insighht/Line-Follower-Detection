@@ -84,3 +84,29 @@ The algorithm processes every single frame from the video through the following 
 * **Temporal Smoothing:** Implement a **Kalman Filter** or a simple moving average on the line parameters to reduce "jitter" between frames.
 * **Increase Robustness:** Add HSV color filtering to better isolate yellow and white lines in difficult lighting conditions (shadows, rain).
 * **ROS/Gazebo Integration:** Publish the calculated steering angle to a simulator (like Gazebo or CoppeliaSim) to control a virtual robotic vehicle.
+
+
+---
+
+## 📬 Contact
+
+**Hafiz Abdul Rehman**
+
+- 📧 Email: hafizrehman3321@gmail.com
+- 💼 LinkedIn: [Hafiz Abdul Rehman](https://linkedin.com/in/hafiz-abdul-rehman-9990ab329)
+- 🐙 GitHub: [Abdul-Insighht](https://github.com/Abdul-Insighht)
+
+---
+
+## 🌟 Show Your Support
+
+If you find this project helpful, please consider:
+
+- ⭐ **Starring** this repository
+- 🔄 **Sharing** with others
+- 🐛 **Reporting** issues
+- 💡 **Suggesting** improvements
+
+---
+
+<p align="center">Made with ❤️ by <b>Hafiz Abdul Rehman</b></p>
